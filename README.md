@@ -5,7 +5,7 @@ A list to record the paper I am reading.
 
 |Title|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|
-Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)|||
+Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)||| [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Sutskever%20et%20al%2CSequence%20to%20sequence%20learning%20with%20neural%20networks.md)|
 
 ## Text(NLP,NLU)
 
