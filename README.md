@@ -13,7 +13,7 @@ Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](
 |Title|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|
 | A Deep Reinforcement Learning Chatbot | _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | |
-| A Neural Conversational Model | _19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869) | [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot) | _None_ | |
+| A Neural Conversational Model | _19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869) | [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/A%20Neural%20Conversational%20Model.md)|
 
 ### Taskbots
 |Title|Date|Paper|Code|Labels|Status|
