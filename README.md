@@ -9,6 +9,11 @@ Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](
 
 ## Text(NLP,NLU)
 
+### word embedding
+|Title|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|
+| Bag of Tricks for Efficient Text Classification | _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | |
+
 ### Chatbots
 |Title|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|
