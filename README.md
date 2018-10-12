@@ -13,6 +13,10 @@ Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](
 |Title|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|
 | Bag of Tricks for Efficient Text Classification | _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | |
+| Enriching Word Vectors with Subword Information | _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) |  | _None_ | |
+
+[Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
+
 
 ### Chatbots
 |Title|Date|Paper|Code|Labels|Status|
