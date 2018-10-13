@@ -1,6 +1,11 @@
 # Paper_reading_list
 A list to record the paper I am reading.
 
+## General(activation function, nodes type etc.)
+|Title|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|
+Klambauer et al,Self-Normalizing Neural Networks |8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
+
 ## RNN
 
 |Title|Date|Paper|Code|Labels|Status|
