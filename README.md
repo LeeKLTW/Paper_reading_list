@@ -19,7 +19,7 @@ Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](
 |---|---|---|---|---|---|
 | Bag of Tricks for Efficient Text Classification | _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)|
 | Enriching Word Vectors with Subword Information | _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | |
-Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||||
+Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||_maybe_beyond_state_of_art_at_LM_||
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
