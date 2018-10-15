@@ -52,3 +52,20 @@ Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩
 [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA) (Similar implementation to chatbots inikdom/neural-chatbot)
 This work tries to reproduce the results of [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
 
+[qhduan/ConversationalRobotDesign](https://github.com/qhduan/ConversationalRobotDesign)这个repo会记录我对 Conversational Robot 的理解、学习、研究、设计、实现的相关内容
+
+[qhduan/Seq2Seq_Chatbot_QA](https://github.com/qhduan/Seq2Seq_Chatbot_QA)这个repo诞生比较早，那个时候tensorflow还没到1.0版本， 所以这个模型当时用的tf.contrib.seq2seq库，现在已经是tf.contrib.legacy_seq2seq了， 我想大家明白legacy的意思。这个repo的本身目的是学习与实现seq2seq的相关内容， 并不是一个完整的software，所以它除了学习和别人参考来说，就有各种各样的问题。
+
+[qhduan/just_another_seq2seq](https://github.com/qhduan/just_another_seq2seq)
+主要是从个人角度梳理了一下seq2seq的代码
+加入了可选基本的CRF支持，loss和infer（还不确定对
+加入了一些中文注释
+相对于其他一些repo，bug可能会少一些
+有些repo的实现在不同参数下会有问题：例如有些支持gru不支持lstm，有些不支持bidirectional，有些选择depth > 1的时候会有各种bug之类的，这些问题我都尽量修正了，虽然不保证实现肯定是对的
+后续我可能会添加一些中文的例子，例如对联、古诗、闲聊、NER
+根据本repo，我会整理一份seq2seq中间的各种trick和实现细节的坑
+pretrained embedding support
+
+[JayParks/tf-seq2seq](https://github.com/JayParks/tf-seq2seq/blob/master/seq2seq_model.py)
+
+[marsan-ma/tf_chatbot_seq2seq_antilm](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)
