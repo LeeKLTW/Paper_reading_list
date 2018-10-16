@@ -18,7 +18,7 @@ Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](
 |Title|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|
 | Bag of Tricks for Efficient Text Classification | _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)|
-| Enriching Word Vectors with Subword Information | _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | |
+| Enriching Word Vectors with Subword Information | _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)|
 Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||_maybe_beyond_state_of_art_at_LM_||
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
@@ -69,3 +69,6 @@ pretrained embedding support
 [JayParks/tf-seq2seq](https://github.com/JayParks/tf-seq2seq/blob/master/seq2seq_model.py)
 
 [marsan-ma/tf_chatbot_seq2seq_antilm](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)
+
+[Yoctol/seq2vec](https://github.com/Yoctol/seq2vec)
+Turn sequence of words into a fix-length representation vector. This is a version to refactor all the seq2vec structures and use customed layers in yklz.
