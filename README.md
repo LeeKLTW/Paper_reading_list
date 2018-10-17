@@ -8,9 +8,11 @@ Klambauer et al,Self-Normalizing Neural Networks |8 Jun 2017 | [arxiv](https://a
 
 ## RNN (Structure)
 
-|Title|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|
-Sutskever et al,Sequence to sequence learning with neural networks |2014| [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)||| [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Sutskever%20et%20al%2CSequence%20to%20sequence%20learning%20with%20neural%20networks.md)|
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+Sequence to sequence learning with neural networks|Sutskever et al |2014| [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)||| [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Sutskever%20et%20al%2CSequence%20to%20sequence%20learning%20with%20neural%20networks.md)|
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation|Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio|_3 Sep 2014_ | [arxiv](https://arxiv.org/pdf/1406.1078.pdf)||GRU| 
+Get To The Point: Summarization with Pointer-Generator Networks|Abigail See, Peter J. Liu, Christopher D. Manning|_25 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368.pdf)||pointer| 
 
 ## Text(NLP,NLU)
 
@@ -23,6 +25,12 @@ Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language 
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
+### Translation
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+| Neural Machine Translation by Jointly Learning to Align and Translate|Dzmitry Bahdanau, KyungHyun Cho,Yoshua Bengio. | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473.pdf) |  | _None_ | |
+| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation|Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean.  | _8 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144.pdf) |  | _None_ | |
+| The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation|Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Niki Parmar, Mike Schuster, Zhifeng Chen, Yonghui Wu, Macduff Hughes. | _27 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.09849.pdf) |  | _None_ | |
 
 ### Chatbots
 |Title|Date|Paper|Code|Labels|Status|
