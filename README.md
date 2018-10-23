@@ -52,6 +52,11 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |---|---|---|---|---|---|
 | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
 
+## Summarization
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|A Survey on Neural Network-Based Summarization Methods|Yue Dong|_19 Mar 2018_ |[arxiv](https://arxiv.org/pdf/1804.04589.pdf)||||
+
 ## General and other(activation function, nodes type etc.)
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
