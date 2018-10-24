@@ -66,8 +66,8 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Deriving a Representative Vector for Ontology Classes with Instance Word Vector Embeddings|Vindula Jayawardana, Dimuthu Lakmal, Nisansa de Silva, Amal Shehan Perera, Keet Sugathadasa, Buddhi Ayesha|_8 Jun 2017_|[arxiv](https://arxiv.org/pdf/1706.02909.pdf)|
+|Structural-fitting Word Vectors to Linguistic Ontology for Semantic Relatedness Measurement |Yang-Yin Lee,Ting-Yu Yen,Hen-Hsen Huang,Hsin-Hsi Chen|_Singapore, Singapore — November 06 - 10, 2017_|[pdf](http://nlg.csie.ntu.edu.tw/~hhhuang/docs/cikm2017.pdf)|
 |Domain Ontology Induction using Word Embeddings|Niharika Gupta,Sanjay Podder, Annervaz K M, Shubhashis Sengupta|_20 Apr 2018_|[pdf](https://www.computer.org/csdl/proceedings/icmla/2016/6167/00/07838131.pdf)||2016 15th IEEE International Conference on Machine Learning and Applications||
-
 |Inseparability and Conservative Extensions of Description Logic Ontologies: A Survey|Elena Botoeva, Boris Konev, Carsten Lutz, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev|_20 Apr 2018_|[arxiv](https://arxiv.org/pdf/1804.07805v1)||Citations (10)||
 
 
