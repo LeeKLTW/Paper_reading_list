@@ -58,14 +58,25 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Automatic Keyword Extraction for Text Summarization: A Survey|Santosh Kumar Bharti, Korra Sathya Babu|_11 Apr 2017_ |[arxiv](https://arxiv.org/pdf/1704.03242v1.pdf)||Citations (6)||
 |Text Summarization Techniques: A Brief Survey|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saeid Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02268v3.pdf)||Citations (11)||
 |A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saied Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02919v2.pdf)||Citations (27)||
+|A Comprehensive Survey of Ontology Summarization: Measures and Methods|Seyedamin Pouriyeh, Mehdi Allahyari, Krys Kochut, Hamid Reza Arabnia|_5 Jan 2018_|||Citations (0)||
 |A Survey on Neural Network-Based Summarization Methods|Yue Dong|_19 Mar 2018_ |[arxiv](https://arxiv.org/pdf/1804.04589.pdf)||||
+|Graph-based Ontology Summarization: A Survey|Seyedamin Pouriyeh, Mehdi Allahyari, Qingxia Liu, Gong Cheng, Hamid Reza Arabnia, Yuzhong Qu, Krys Kochut|_15 May 2018_|[arxiv](https://arxiv.org/pdf/1805.06051.pdf)||Citations (0)||
+
+## Ontology
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|Deriving a Representative Vector for Ontology Classes with Instance Word Vector Embeddings|Vindula Jayawardana, Dimuthu Lakmal, Nisansa de Silva, Amal Shehan Perera, Keet Sugathadasa, Buddhi Ayesha|_8 Jun 2017_|[arxiv](https://arxiv.org/pdf/1706.02909.pdf)|
+|Domain Ontology Induction using Word Embeddings|Niharika Gupta,Sanjay Podder, Annervaz K M, Shubhashis Sengupta|_20 Apr 2018_|[pdf](https://www.computer.org/csdl/proceedings/icmla/2016/6167/00/07838131.pdf)||2016 15th IEEE International Conference on Machine Learning and Applications||
+
+|Inseparability and Conservative Extensions of Description Logic Ontologies: A Survey|Elena Botoeva, Boris Konev, Carsten Lutz, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev|_20 Apr 2018_|[arxiv](https://arxiv.org/pdf/1804.07805v1)||Citations (10)||
+
 
 ## General and other(activation function, nodes type etc.)
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-|Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||-||
+|Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
 Klambauer et al,Self-Normalizing Neural Networks ||8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
-A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath|8 _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext|| 
+A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath|8 _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
 
 
 
