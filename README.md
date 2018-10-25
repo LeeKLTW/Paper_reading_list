@@ -19,6 +19,8 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 |---|---|---|---|---|---|---|
 | Bag of Tricks for Efficient Text Classification || _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)|
 | Enriching Word Vectors with Subword Information || _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)|
+Deep contextualized word representations|Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer|_22 Mar 2018_| [arxiv](https://arxiv.org/pdf/1802.05365.pdf)||Citations (137)||
+Learned in Translation: Contextualized Word Vectors|Bryan McCann, James Bradbury, Caiming Xiong, Richard Socher|_20 Jun 2018_| [arxiv](https://arxiv.org/pdf/1708.00107.pdf)||Citations (74)||
 Semi-Supervised Sequence Modeling with Cross-View Training|Kevin Clark, Minh-Thang Luong, Christopher D. Manning, Quoc V. Le|_22 Sep 2018_| [arxiv](https://arxiv.org/pdf/1809.08370v1.pdf)||||
 Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ||11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||_maybe_beyond_state_of_art_at_LM_||
 
@@ -55,6 +57,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data|Citations (19)| _29 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08884v1.pdf) | |MCTest,Citations (19) | |
 |Machine Comprehension Using Match-LSTM and Answer Pointer|Shuohang Wang, Jing Jiang| _Nov 2016_ | [arxiv](https://arxiv.org/pdf/1608.07905.pdf) | |SQuAD,Citations (182) | |
 | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models || _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
+| Making Neural QA as Simple as Possible but not Simpler |Dirk Weissenborn, Georg Wiese, Laura Seiffe| _8 June 2017_ | [arxiv](https://arxiv.org/abs/1703.04816) |  |Citations (40)| |
 |Supervised and Unsupervised Transfer Learning for Question Answering|Yu-An Chung, Hung-Yi Lee, James Glass| _21 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (7) | |
 | FQuAC : Question Answering in Context |Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer| _28 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1808.07036v3.pdf)| |Citations (6)| |
 | Finding Similar Medical Questions from Question Answering Websites |Yaliang Li, Liuyi Yao, Nan Du, Jing Gao, Qi Li, Chuishi Meng, Chenwei Zhang, Wei Fan| _14 Oct 2018_ | [arxiv](https://arxiv.org/df/1810.05983v1.pdf)| |Citations (0)| |
