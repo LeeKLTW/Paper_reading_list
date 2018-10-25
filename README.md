@@ -50,10 +50,15 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ### Question Answering
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-|Machine Comprehension Using Match-LSTM and Answer Pointer|Shuohang Wang, Jing Jiang| _Nov 2016 _ | [arxiv](https://arxiv.org/pdf/1608.07905.pdf) | |SQuAD,Citations (182) | |
+|Attention-Based Convolutional Neural Network for Machine Comprehension|Wenpeng Yin, Sebastian Ebert, Hinrich Schütze| _13 Feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (42) | |
+|Joint Learning of Sentence Embeddings for Relevance and Entailment|Petr Baudis, Silvestr Stanko, Jan Sedivy| _22 Jun 2016_ | [arxiv](https://arxiv.org/pdf/1605.04655v2.pdf) | |MCTest,Citations (2) | |
+|A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data|Citations (19)| _29 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08884v1.pdf) | |MCTest,Citations (19) | |
+|Machine Comprehension Using Match-LSTM and Answer Pointer|Shuohang Wang, Jing Jiang| _Nov 2016_ | [arxiv](https://arxiv.org/pdf/1608.07905.pdf) | |SQuAD,Citations (182) | |
 | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models || _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
+|Supervised and Unsupervised Transfer Learning for Question Answering|Yu-An Chung, Hung-Yi Lee, James Glass| _21 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (7) | |
 | FQuAC : Question Answering in Context |Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer| _28 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1808.07036v3.pdf)| |Citations (6)| |
 | Finding Similar Medical Questions from Question Answering Websites |Yaliang Li, Liuyi Yao, Nan Du, Jing Gao, Qi Li, Chuishi Meng, Chenwei Zhang, Wei Fan| _14 Oct 2018_ | [arxiv](https://arxiv.org/df/1810.05983v1.pdf)| |Citations (0)| |
+
 
 ## Summarization
 |Title|Author|Date|Paper|Code|Labels|Status|
