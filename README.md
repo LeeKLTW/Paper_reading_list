@@ -48,9 +48,12 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 | End-to-End Task-Completion Neural Dialogue Systems | _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01008) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ | |
 
 ### Question Answering
-|Title|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|
-| IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|Machine Comprehension Using Match-LSTM and Answer Pointer|Shuohang Wang, Jing Jiang| _Nov 2016 _ | [arxiv](https://arxiv.org/pdf/1608.07905.pdf) | |SQuAD,Citations (182) | |
+| IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models || _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
+| FQuAC : Question Answering in Context |Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer| _28 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1808.07036v3.pdf)| |Citations (6)| |
+| Finding Similar Medical Questions from Question Answering Websites |Yaliang Li, Liuyi Yao, Nan Du, Jing Gao, Qi Li, Chuishi Meng, Chenwei Zhang, Wei Fan| _14 Oct 2018_ | [arxiv](https://arxiv.org/df/1810.05983v1.pdf)| |Citations (0)| |
 
 ## Summarization
 |Title|Author|Date|Paper|Code|Labels|Status|
