@@ -13,6 +13,12 @@ Recent Advances in Recurrent Neural Networks|Hojjat Salehinejad, Sharan Sankar, 
 Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh-Thang Luong |_19 Sep 2018_ | [arxiv](https://arxiv.org/pdf/1809.07070v1.pdf)||||
 
 ## Text(NLP,NLU)
+### syntactic parsing
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|A Fast and Accurate Dependency Parser using Neural Networks|Danqi Chen,Christopher D. Manning|_2014_|[standford](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)|[not officail github](https://github.com/akjindal53244/dependency_parsing_tf)|EMNLP,Citation(914)||
+
+[哈工大](https://ltp-cloud.com/intro/)
 
 ### word embedding
 |Title|Author|Date|Paper|Code|Labels|Status|
