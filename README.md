@@ -21,6 +21,7 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 | Enriching Word Vectors with Subword Information || _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)|
 Deep contextualized word representations|Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer|_22 Mar 2018_| [arxiv](https://arxiv.org/pdf/1802.05365.pdf)||Citations (137)||
 Learned in Translation: Contextualized Word Vectors|Bryan McCann, James Bradbury, Caiming Xiong, Richard Socher|_20 Jun 2018_| [arxiv](https://arxiv.org/pdf/1708.00107.pdf)||Citations (74)||
+Analogical Reasoning on Chinese Morphological and Semantic Relations|Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du|_12 May 2018_| [arxiv](https://arxiv.org/pdf/1805.06504.pdf)||ACL Short Papers,Citations (2)||
 Semi-Supervised Sequence Modeling with Cross-View Training|Kevin Clark, Minh-Thang Luong, Christopher D. Manning, Quoc V. Le|_22 Sep 2018_| [arxiv](https://arxiv.org/pdf/1809.08370v1.pdf)||||
 Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ||11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||_maybe_beyond_state_of_art_at_LM_||
 
