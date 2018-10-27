@@ -61,7 +61,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |---|---|---|---|---|---|---|
 |Attention-Based Convolutional Neural Network for Machine Comprehension|Wenpeng Yin, Sebastian Ebert, Hinrich Schütze| _13 Feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (42) | |
 |Joint Learning of Sentence Embeddings for Relevance and Entailment|Petr Baudis, Silvestr Stanko, Jan Sedivy| _22 Jun 2016_ | [arxiv](https://arxiv.org/pdf/1605.04655v2.pdf) | |MCTest,Citations (2) | |
-|A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data|Citations (19)| _29 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08884v1.pdf) | |MCTest,Citations (19) | |
+|A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data|Adam Trischler, Zheng Ye, Xingdi Yuan, Jing He, Phillip Bachman, Kaheer Suleman| _29 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08884v1.pdf) | |MCTest,Citations (19) | |
 |Machine Comprehension Using Match-LSTM and Answer Pointer|Shuohang Wang, Jing Jiang| _Nov 2016_ | [arxiv](https://arxiv.org/pdf/1608.07905.pdf) | |SQuAD,Citations (182) | |
 | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models || _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
 | Making Neural QA as Simple as Possible but not Simpler |Dirk Weissenborn, Georg Wiese, Laura Seiffe| _8 June 2017_ | [arxiv](https://arxiv.org/abs/1703.04816) |  |Citations (40)| |
