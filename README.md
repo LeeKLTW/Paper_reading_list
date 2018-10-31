@@ -53,9 +53,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ### Taskbots
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-| Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning|
-Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning
-Baolin Peng, Xiujun Li, Lihong Li, Jianfeng Gao, Asli Celikyilmaz, Sungjin Lee, Kam-Fai Wong| _10 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03084) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ ||
+| Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning|Baolin Peng, Xiujun Li, Lihong Li, Jianfeng Gao, Asli Celikyilmaz, Sungjin Lee, Kam-Fai Wong| _10 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03084) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ ||
 | End-to-End Task-Completion Neural Dialogue Systems|Xiujun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao, Asli Celikyilmaz| _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01008) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ | |
 
 ### Question Answering
