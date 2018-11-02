@@ -29,7 +29,7 @@ Deep contextualized word representations|Matthew E. Peters, Mark Neumann, Mohit 
 Learned in Translation: Contextualized Word Vectors|Bryan McCann, James Bradbury, Caiming Xiong, Richard Socher|_20 Jun 2018_| [arxiv](https://arxiv.org/pdf/1708.00107.pdf)||Citations (74)||
 Analogical Reasoning on Chinese Morphological and Semantic Relations|Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu, Xiaoyong Du|_12 May 2018_| [arxiv](https://arxiv.org/pdf/1805.06504.pdf)|[github](https://github.com/Embedding/Chinese-Word-Vectors)|ACL Short Papers,Citations (2)|[read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Analogical%20Reasoning%20on%20Chinese%20Morphological%20and%20Semantic%20Relations.md)|
 Semi-Supervised Sequence Modeling with Cross-View Training|Kevin Clark, Minh-Thang Luong, Christopher D. Manning, Quoc V. Le|_22 Sep 2018_| [arxiv](https://arxiv.org/pdf/1809.08370v1.pdf)||||
-Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ||11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)||_maybe_beyond_state_of_art_at_LM_||
+Devlin et al.BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ||11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)|[github](https://github.com/google-research/bert)|_maybe_beyond_state_of_art_at_LM_||
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
