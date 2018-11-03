@@ -134,7 +134,7 @@ Turn sequence of words into a fix-length representation vector. This is a versio
 
 [bshao001/ChatLearner](https://github.com/bshao001/ChatLearner)A chatbot implemented in TensorFlow based on the new sequence to sequence (NMT) model, with certain rules seamlessly integrated.
 
-[wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) 业余项目“萌名（一个基于语料库技术的取名工具）”的副产品。不定期更新。只删词，不加词。中文人名语料库（Chinese-Names-Corpus） 
+[wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) 中文人名语料库（Chinese-Names-Corpus）业余项目“萌名（一个基于语料库技术的取名工具）”的副产品。不定期更新。只删词，不加词。中文人名语料库（Chinese-Names-Corpus） 
 
 [wainshine/Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) 公司名语料库（Company-Names-Corpus）
 业余项目“萌名（一个基于语料库技术的取名工具）”的副产品。不定期更新。只删词，不加词。可用于中文分词、机构名识别。
