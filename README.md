@@ -66,7 +66,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models || _30 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.10513) | [geek-ai/irgan](https://github.com/geek-ai/irgan) | ![state-of-the-art](https://img.shields.io/badge/label-State--of--the--art-red.svg) | |
 | Making Neural QA as Simple as Possible but not Simpler |Dirk Weissenborn, Georg Wiese, Laura Seiffe| _8 June 2017_ | [arxiv](https://arxiv.org/abs/1703.04816) |  |Citations (40)| |
 |Supervised and Unsupervised Transfer Learning for Question Answering|Yu-An Chung, Hung-Yi Lee, James Glass| _21 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (7) | |
-|JUMPER: Learning When to Make Classification Decisions in Reading|| _6 Jul 2018_ | [arxiv](https://arxiv.org/pdf/1807.02314.pdf) ||IJCAI,Citations (1) ||
+|JUMPER: Learning When to Make Classification Decisions in Reading|Xianggen Liu, Lili Mou, Haotian Cui, Zhengdong Lu, Sen Song| _6 Jul 2018_ | [arxiv](https://arxiv.org/pdf/1807.02314.pdf) ||IJCAI,Citations (1) ||
 | FQuAC : Question Answering in Context |Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer| _28 Aug 2018_ | [arxiv](https://arxiv.org/pdf/1808.07036v3.pdf)| |Citations (6)| |
 | Finding Similar Medical Questions from Question Answering Websites |Yaliang Li, Liuyi Yao, Nan Du, Jing Gao, Qi Li, Chuishi Meng, Chenwei Zhang, Wei Fan| _14 Oct 2018_ | [arxiv](https://arxiv.org/df/1810.05983v1.pdf)| |Citations (0)| |
 
