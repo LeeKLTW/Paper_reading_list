@@ -96,6 +96,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |A Tutorial on Spectral Clustering|Ulrike von Luxburg| _1 Nov 2007_ |[arxiv](https://arxiv.org/pdf/0711.0189.pdf)||Citations (999+)||
+|Show, Attend and Tell: Neural Image Caption Generation with Visual Attention|Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio|_19 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1502.03044.pdf)||||
 |Understanding intermediate layers using linear classifier probes|Guillaume Alain, Yoshua Bengio|_14 Oct 2016_ |[arxiv](https://arxiv.org/pdf/1610.01644.pdf)||||
 |Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
 Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
