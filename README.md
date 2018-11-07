@@ -13,6 +13,10 @@ Recent Advances in Recurrent Neural Networks|Hojjat Salehinejad, Sharan Sankar, 
 Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh-Thang Luong |_19 Sep 2018_ | [arxiv](https://arxiv.org/pdf/1809.07070v1.pdf)||||
 
 ## Text(NLP,NLU)
+### Language modeling
+|Title|Author|Date|Paper|Code|Labels|Status|
+|Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm|Brian Roark, Murat Saraclar, Michael Collins, Mark Johnson||||Citation(176)||
+
 ### syntactic parsing
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
