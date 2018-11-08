@@ -81,12 +81,14 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ## Summarization
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-|Automatic Keyword Extraction for Text Summarization: A Survey|Santosh Kumar Bharti, Korra Sathya Babu|_11 Apr 2017_ |[arxiv](https://arxiv.org/pdf/1704.03242v1.pdf)||Citations (6)||
+|Maximum Entropy Markov Models for Information Extraction and Segmentation|Andrew McCallum,Dayne Freitag,Fernando Pereira  |_5 May 2002_ |[pdf](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)[ppt@ICML](http://cseweb.ucsd.edu/~elkan/254spring02/gidofalvi.pdf)||Citations (1544)||
+|Automatic Keyword Extraction for Text Summarization: A Survey|Santosh Kumar Bharti, Korra Sathya Babu|_11 Apr 2017_ |[arxiv](https://arxiv.org/pdf/1704.03242v1.pdf)||Citations (1544)||
 |Text Summarization Techniques: A Brief Survey|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saeid Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02268v3.pdf)||Citations (11)||
 |A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saied Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02919v2.pdf)||Citations (27)||
 |A Comprehensive Survey of Ontology Summarization: Measures and Methods|Seyedamin Pouriyeh, Mehdi Allahyari, Krys Kochut, Hamid Reza Arabnia|_5 Jan 2018_|[arxiv](https://arxiv.org/pdf/1801.01937)||Citations (0)||
 |A Survey on Neural Network-Based Summarization Methods|Yue Dong|_19 Mar 2018_ |[arxiv](https://arxiv.org/pdf/1804.04589.pdf)||||
 |Graph-based Ontology Summarization: A Survey|Seyedamin Pouriyeh, Mehdi Allahyari, Qingxia Liu, Gong Cheng, Hamid Reza Arabnia, Yuzhong Qu, Krys Kochut|_15 May 2018_|[arxiv](https://arxiv.org/pdf/1805.06051.pdf)||Citations (0)||
+
 
 ## Ontology
 |Title|Author|Date|Paper|Code|Labels|Status|
