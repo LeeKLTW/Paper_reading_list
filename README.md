@@ -81,7 +81,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ## Summarization
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-|Maximum Entropy Markov Models for Information Extraction and Segmentation|Andrew McCallum,Dayne Freitag,Fernando Pereira  |_5 May 2002_ |[pdf](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)[ppt@ICML](http://cseweb.ucsd.edu/~elkan/254spring02/gidofalvi.pdf)||Citations (1544)||
+|Maximum Entropy Markov Models for Information Extraction and Segmentation|Andrew McCallum,Dayne Freitag,Fernando Pereira  |_5 May 2002_ |[pdf](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf), [ppt@ICML](http://cseweb.ucsd.edu/~elkan/254spring02/gidofalvi.pdf)||Citations (1544)||
 |Automatic Keyword Extraction for Text Summarization: A Survey|Santosh Kumar Bharti, Korra Sathya Babu|_11 Apr 2017_ |[arxiv](https://arxiv.org/pdf/1704.03242v1.pdf)||Citations (1544)||
 |Text Summarization Techniques: A Brief Survey|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saeid Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02268v3.pdf)||Citations (11)||
 |A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques|Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saied Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut|_28 Jul 2017_ |[arxiv](https://arxiv.org/pdf/1707.02919v2.pdf)||Citations (27)||
