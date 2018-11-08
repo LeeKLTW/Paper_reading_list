@@ -152,5 +152,8 @@ Turn sequence of words into a fix-length representation vector. This is a versio
 公司名语料库（Company-Names-Corpus） 480万。清洗后仍存有大量badcase。
 机构名语料库（Organization-Names-Corpus） 110万。清洗后仍存有大量badcase。
 
-Maximum Entropy Markov Models for Information Extraction and Segmentation
-http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf
+## webpage & blog
+[Hidden Markov Model and Naive Bayes relationship](http://www.davidsbatista.net/blog/2017/11/11/HHM_and_Naive_Bayes/)
+[Maximum Entropy Markov Models and Logistic Regression](http://www.davidsbatista.net/blog/2017/11/12/Maximum_Entropy_Markov_Model/)
+[Conditional Random Fields for Sequence Prediction](http://www.davidsbatista.net/blog/2017/11/13/Conditional_Random_Fields/)
+
