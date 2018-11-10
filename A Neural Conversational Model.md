@@ -28,3 +28,14 @@ most 20k common words index
 SGD
 
 this model perplexity 8 vs n-gram 18
+
+
+
+In Open Subtitles 
+1. Basic
+2. Simple Q&A
+3. General knowledge
+4. Philosophical
+5. Morality
+6. Opinions
+7. Job & personality
