@@ -160,3 +160,4 @@ Turn sequence of words into a fix-length representation vector. This is a versio
 
 [Conditional Random Fields for Sequence Prediction](http://www.davidsbatista.net/blog/2017/11/13/Conditional_Random_Fields/)
 
+[erhwenkuo nice keras tutorial](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
