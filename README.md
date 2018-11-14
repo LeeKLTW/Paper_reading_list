@@ -66,6 +66,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ### Question Answering
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
+|Teaching Machines to Read and Comprehend|Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom| _19 Nov 2015_ | [arxiv](https://arxiv.org/pdf/1506.03340v3.pdf) | |Citations (598) | |
 |Attention-Based Convolutional Neural Network for Machine Comprehension|Wenpeng Yin, Sebastian Ebert, Hinrich Schütze| _13 Feb 2016_ | [arxiv](https://arxiv.org/pdf/1602.04341v1.pdf) | |MCTest,Citations (42) | |
 |Joint Learning of Sentence Embeddings for Relevance and Entailment|Petr Baudis, Silvestr Stanko, Jan Sedivy| _22 Jun 2016_ | [arxiv](https://arxiv.org/pdf/1605.04655v2.pdf) | |MCTest,Citations (2) | |
 |A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data|Adam Trischler, Zheng Ye, Xingdi Yuan, Jing He, Phillip Bachman, Kaheer Suleman| _29 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08884v1.pdf) |[github](https://github.com/Maluuba/mctest-model)|MCTest,SOA,Citations (19) | |
