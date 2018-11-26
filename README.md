@@ -109,6 +109,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ## General and other(activation function, nodes type etc.)
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
+|On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes| _2001_ |[NIPS](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)||NIPS, Citations (1974)||
 |A Tutorial on Spectral Clustering|Ulrike von Luxburg| _1 Nov 2007_ |[arxiv](https://arxiv.org/pdf/0711.0189.pdf)||Citations (999+)||
 |Show, Attend and Tell: Neural Image Caption Generation with Visual Attention|Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio|_19 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1502.03044.pdf)||||
 |Understanding intermediate layers using linear classifier probes|Guillaume Alain, Yoshua Bengio|_14 Oct 2016_ |[arxiv](https://arxiv.org/pdf/1610.01644.pdf)||||
