@@ -111,11 +111,14 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |---|---|---|---|---|---|---|
 |On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes| _2001_ |[NIPS](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)||NIPS, Citations (1974)||
 |A Tutorial on Spectral Clustering|Ulrike von Luxburg| _1 Nov 2007_ |[arxiv](https://arxiv.org/pdf/0711.0189.pdf)||Citations (999+)||
+|Character-level Convolutional Networks for Text Classification|Xiang Zhang, Junbo Zhao, Yann LeCun|_2015_ |[NIPS](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)||NIPS, Citations (877)||
 |Show, Attend and Tell: Neural Image Caption Generation with Visual Attention|Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio|_19 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1502.03044.pdf)||||
 |Understanding intermediate layers using linear classifier probes|Guillaume Alain, Yoshua Bengio|_14 Oct 2016_ |[arxiv](https://arxiv.org/pdf/1610.01644.pdf)||||
 |Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
 Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath|8 _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
+
+
 
 Attention Is All You Need
 https://arxiv.org/abs/1706.03762
