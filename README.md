@@ -120,6 +120,11 @@ Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
 Attention Is All You Need |||||||
 
+## Style Transfer in Text
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|Toward Controlled Generation of Text|Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing| _13 Sep 2018 _ |[arxiv](https://arxiv.org/abs/1703.00955)|[official](https://github.com/asyml/texar/tree/master/examples/text_style_transfer) [unofficial code](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)|ICML-2017, Citations (86)||
+
 
 
 Attention Is All You Need
