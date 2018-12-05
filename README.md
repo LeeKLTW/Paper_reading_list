@@ -111,6 +111,11 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Language Style Transfer from Sentences with Arbitrary Unknown Styles|Yanpeng Zhao, Wei Bi, Deng Cai, Xiaojiang Liu, Kewei Tu, Shuming Shi| _13 Aug 2018_ |[arxiv](https://arxiv.org/abs/1808.04071)||Citations (2)||
 |Toward Controlled Generation of Text|Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing| _13 Sep 2018_ |[arxiv](https://arxiv.org/abs/1703.00955)|[official](https://github.com/asyml/texar/tree/master/examples/text_style_transfer) [unofficial code](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)|ICML-2017, Citations (86)||
 
+## Style Transfer in Text
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+
+
 ## General and other(activation function, nodes type etc.)
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
