@@ -38,6 +38,9 @@ Analogical Reasoning on Chinese Morphological and Semantic Relations|Shen Li, Zh
 Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation|Mikel Artetxe, Gorka Labaka, Iñigo Lopez-Gazpio, Eneko Agirre|_6 Sep 2018_| [arxiv](https://arxiv.org/pdf/1809.02094.pdf)|[github](https://github.com/artetxem/uncovec)|CoNLL 2018 Best Paper Award||
 Semi-Supervised Sequence Modeling with Cross-View Training|Kevin Clark, Minh-Thang Luong, Christopher D. Manning, Quoc V. Le|_22 Sep 2018_| [arxiv](https://arxiv.org/pdf/1809.08370v1.pdf)||||
 Pre-training of Deep Bidirectional Transformers for Language Understanding |Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova|11 Oct 2018| [arxiv](https://arxiv.org/pdf/1810.04805.pdf)|[github](https://github.com/google-research/bert)|_maybe_beyond_state_of_art_at_LM_||
+On the Dimensionality of Word Embedding |Zi Yin,Yuanyuan Shen|_Dec 2018_| [NIPS](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding)||_NIPS_||
+
+
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
