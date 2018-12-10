@@ -1,3 +1,7 @@
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+
+
 Active Learning Literature Survey,Anita Krishnakumar
 
 A survey on instance selection for active learning,Yifan Fu · Xingquan Zhu · Bin Li
