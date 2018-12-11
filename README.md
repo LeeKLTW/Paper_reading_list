@@ -25,6 +25,7 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |A Fast and Accurate Dependency Parser using Neural Networks|Danqi Chen,Christopher D. Manning|_2014_|[standford](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)|[not officail github](https://github.com/akjindal53244/dependency_parsing_tf)|EMNLP,Citation(914)||
+|Neural Architectures for Named Entity Recognition|Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer|_7 Apr 2016_|[arxiv](https://arxiv.org/abs/1603.01360v3)||Citations (597)||
 
 [哈工大](https://ltp-cloud.com/intro/)
 
