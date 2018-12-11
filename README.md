@@ -19,6 +19,7 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm|Brian Roark, Murat Saraclar, Michael Collins, Mark Johnson||||Citation(176)||
+|Semi-supervised sequence tagging with bidirectional language models|Matthew E. Peters, Waleed Ammar, Chandra Bhagavatula, Russell Power|_29 Apr 2017_|[arxiv](https://arxiv.org/abs/1705.00108)||Citations (67)||
 
 
 ### syntactic parsing
