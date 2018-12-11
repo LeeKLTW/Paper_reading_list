@@ -7,8 +7,6 @@
 |Toward an architecture for never-ending language learning.|A Carlson, J Betteridge, B Kisiel, B Settles|_2010_|||Citation(1266)||
 
 
-Active Learning Literature Survey,Anita Krishnakumar
-
 A survey on instance selection for active learning,Yifan Fu · Xingquan Zhu · Bin Li
 
 Learning Active Learning from Data, Ksenia Konyushkova, Raphael Sznitman, Pascal Fua
