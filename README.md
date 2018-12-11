@@ -62,7 +62,9 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |---|---|---|---|---|---|---|
 | A Neural Conversational Model |Oriol Vinyals, Quoc Le|_19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869) | [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/A%20Neural%20Conversational%20Model.md)|
 | Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models |Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau| _6 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1507.04808.pdf) |  | _None_ | |
+|Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning|Jason D. Williams, Kavosh Asadi, Geoffrey Zweig| _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1702.03274) |  | Citations (82) | |
 | A Deep Reinforcement Learning Chatbot |Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Rajeshwar, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, Yoshua Bengio| _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | |
+
 
 [babi project](https://research.fb.com/downloads/babi/)
 
