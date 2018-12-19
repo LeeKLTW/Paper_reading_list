@@ -148,9 +148,10 @@ Attention Is All You Need |||||||
 
 
 
-
 Attention Is All You Need
 https://arxiv.org/abs/1706.03762
+
+[Efficient Natural Language Response Suggestion for Smart Reply](https://arxiv.org/abs/1705.00652)
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
