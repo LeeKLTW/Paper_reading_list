@@ -18,6 +18,7 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm|Brian Roark, Murat Saraclar, Michael Collins, Mark Johnson||||Citation(176)||
+|A Neural Probabilistic Language Model|Yoshua Bengio, Réjean Ducharme, Pascal Vincent, Christian Jauvin|3(Feb):1137-1155, 2003|||jmlr,Citation(4101)||
 |Semi-supervised sequence tagging with bidirectional language models|Matthew E. Peters, Waleed Ammar, Chandra Bhagavatula, Russell Power|_29 Apr 2017_|[arxiv](https://arxiv.org/abs/1705.00108)||Citations (67)||
 
 
