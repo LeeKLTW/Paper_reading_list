@@ -46,7 +46,6 @@ Pre-training of Deep Bidirectional Transformers for Language Understanding |Jaco
 On the Dimensionality of Word Embedding |Zi Yin,Yuanyuan Shen|_Dec 2018_| [NIPS](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding)||_NIPS_||
 
 
-
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
 ### Translation
