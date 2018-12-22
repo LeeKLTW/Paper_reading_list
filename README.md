@@ -1,8 +1,6 @@
 # Paper_reading_list
 A list to record the papers I am reading.
 
-
-
 ## RNN (Structure)
 
 |Title|Author|Date|Paper|Code|Labels|Status|
