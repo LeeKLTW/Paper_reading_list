@@ -8,7 +8,7 @@
 |A survey on instance selection for active learning|Yifan Fu,Xingquan Zhu,Bin Li|_17 March 2012_|[pdf](http://www.cse.fau.edu/~xqzhu/papers/KAIS.Fu.2013.Active.pdf)||||
 
 
-,
+
 
 Learning Active Learning from Data, Ksenia Konyushkova, Raphael Sznitman, Pascal Fua
 
