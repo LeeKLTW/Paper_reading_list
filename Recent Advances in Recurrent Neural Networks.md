@@ -1,6 +1,5 @@
 TBC
 
-
 # Outline of the paper
 1. Fundemental
 2. Training
@@ -20,3 +19,5 @@ Gated: significantly high performance in a variety of applications higher comple
 Unitary: same complexity of a simple RNN while providing stronger modeling ability
 
 Regularization: While these methods have shown to improve performance, there is no standard for regularizing RNNs.
+
+()
