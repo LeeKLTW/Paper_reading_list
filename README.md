@@ -32,6 +32,8 @@ Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh
 ### word embedding
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
+| An Autoencoder Approach to Learning Bilingual Word Representations
+ |Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov| _2014_ | [NIPS](http://papers.nips.cc/paper/5270-an-autoencoder-approach-to-learning-bilingual-word-representations) | | (NIPS 2014) ||
 | Bag of Tricks for Efficient Text Classification |Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov| _April 3-7, 2017_ | [pdf](http://aclweb.org/anthology/E17-2068) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ | [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)|
 | Enriching Word Vectors with Subword Information |Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov | _July 15, 2016_ | [arxiv](https://arxiv.org/pdf/1607.04606v1.pdf) | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)|
 Deep contextualized word representations|Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer|_22 Mar 2018_| [arxiv](https://arxiv.org/pdf/1802.05365.pdf)||Citations (261)||
