@@ -161,12 +161,14 @@ Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
 Attention Is All You Need ||[arxiv](https://arxiv.org/abs/1706.03762)|||||
 
-
-
 Attention Is All You Need
 https://arxiv.org/abs/1706.03762
 
 [Efficient Natural Language Response Suggestion for Smart Reply](https://arxiv.org/abs/1705.00652)
+
+Auto-Keras: Efficient Neural Architecture Search with Network Morphism
+https://arxiv.org/abs/1806.10282
+(Killer of AutoML)
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
