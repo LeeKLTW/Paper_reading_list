@@ -16,6 +16,11 @@ Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen
 https://arxiv.org/abs/1609.06038
 26 Apr 2017
 
+A Decomposable Attention Model for Natural Language Inference 
+Ankur P. Parikh, Oscar Täckström, Dipanjan Das, Jakob Uszkoreit
+https://arxiv.org/abs/1606.01933
+25 Sep 2016
+
 
 ## Text(NLP,NLU)
 ### Language modeling
