@@ -159,7 +159,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
 Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
-Attention Is All You Need ||[arxiv](https://arxiv.org/abs/1706.03762)|||||
+Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)||Citations (927)||
 
 Attention Is All You Need
 https://arxiv.org/abs/1706.03762
