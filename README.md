@@ -62,7 +62,7 @@ On the Dimensionality of Word Embedding |Zi Yin,Yuanyuan Shen|_Dec 2018_| [NIPS]
 ### Translation
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-| Neural Machine Translation by Jointly Learning to Align and Translate|Dzmitry Bahdanau, KyungHyun Cho,Yoshua Bengio. | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473.pdf) |  | _None_ | |
+| Neural Machine Translation by Jointly Learning to Align and Translate|Dzmitry Bahdanau, KyungHyun Cho,Yoshua Bengio. | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473.pdf) |  | _None_ |[TBC](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate)|
 | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation|Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean.  | _8 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144.pdf) |  | _None_ | |
 | The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation|Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Niki Parmar, Mike Schuster, Zhifeng Chen, Yonghui Wu, Macduff Hughes. | _27 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.09849.pdf) |  | _None_ | |
 
