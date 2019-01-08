@@ -1,3 +1,5 @@
+"Attention" proposed.
+
 Problem: Cho et al. (2014b) showed that indeed the performance of a basic encoder–decoder deteriorates rapidly as the length of an input sentence increases.
 
 
