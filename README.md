@@ -170,6 +170,17 @@ Auto-Keras: Efficient Neural Architecture Search with Network Morphism
 https://arxiv.org/abs/1806.10282
 (Killer of AutoML)
 
+Effective Use of Word Order for Text Categorization with Convolutional Neural Networks
+https://github.com/tensorflow/models/tree/master/research/sentiment_analysis
+https://arxiv.org/abs/1412.1058
+
+
+Skip-Thought Vectors
+R Kiros, Y Zhu, RR Salakhutdinov, R Zemel el al
+https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
+https://github.com/tensorflow/models/tree/master/research/skip_thoughts
+
+
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
 Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩種產生回覆的方式，專案仍在開發中:)
