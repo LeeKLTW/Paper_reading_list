@@ -14,3 +14,5 @@ This model also finds a linguistically plausible (soft-)alignment between a sour
 decoder: alignment model by feedforward NN
 
 encoder:BiRNN with concatnating
+
+formula (4) is very important
