@@ -185,6 +185,11 @@ https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
 https://github.com/tensorflow/models/tree/master/research/skip_thoughts
 
 
+Deep Residual Learning for Image Recognition
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+Citation(16747),CVPR
+
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
 Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩種產生回覆的方式，專案仍在開發中:)
