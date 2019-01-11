@@ -233,6 +233,8 @@ Turn sequence of words into a fix-length representation vector. This is a versio
 机构名语料库（Organization-Names-Corpus） 110万。清洗后仍存有大量badcase。
 
 ## webpage & blog
+[NLP-progress](https://nlpprogress.com/english/text_classification.html)
+
 [Hidden Markov Model and Naive Bayes relationship](http://www.davidsbatista.net/blog/2017/11/11/HHM_and_Naive_Bayes/)
 
 [Maximum Entropy Markov Models and Logistic Regression](http://www.davidsbatista.net/blog/2017/11/12/Maximum_Entropy_Markov_Model/)
