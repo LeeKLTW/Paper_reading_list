@@ -162,12 +162,6 @@ Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
 Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)||Citations (927)||
 
-A Structured Self-attentive Sentence Embedding
-Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio
-9 Mar 2017
-https://arxiv.org/abs/1703.03130
-Citations (209)
-ICLR 2017
 
 [Efficient Natural Language Response Suggestion for Smart Reply](https://arxiv.org/abs/1705.00652)
 
