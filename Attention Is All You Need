@@ -1,0 +1,18 @@
+problem: The fundamental constraint of sequential computation remains.
+
+fig1 
+
+## Scaled Dot product:
+
+1. why dot product: more efficienfy in practice
+
+2. why scaled: when n become large, gradient vanishes.
+
+## multi-head attention
+
+concat scaled dot product
+
+
+## point-wise encoding
+
+## self-attention vs RNN vs CNN
