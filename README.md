@@ -179,11 +179,17 @@ R Kiros, Y Zhu, RR Salakhutdinov, R Zemel el al
 https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
 https://github.com/tensorflow/models/tree/master/research/skip_thoughts
 
+Document Embedding with Paragraph Vectors
+Andrew M. Dai, Christopher Olah, Quoc V. Le
+https://arxiv.org/abs/1507.07998
+Citations (101)
 
 Deep Residual Learning for Image Recognition
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 Citation(16747),CVPR
+
+sequential denoise autoencoder
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
