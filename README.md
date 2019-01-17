@@ -160,7 +160,13 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
 Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
+
+## Transformer
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
 Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)||Citations (927)||
+|Universal Transformers|Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Łukasz Kaiser|_10 Jul 2018_|[arxiv](https://arxiv.org/abs/1807.03819)|[tf.research](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|Citations (5),[leiphone](https://www.leiphone.com/news/201808/1nhPCi9jWWNGv6aw.html)||
+|Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov|_9 Jan 2019_|[arxiv](https://arxiv.org/abs/1901.02860)||||
 
 
 [Efficient Natural Language Response Suggestion for Smart Reply](https://arxiv.org/abs/1705.00652)
