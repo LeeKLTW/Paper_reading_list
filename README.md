@@ -164,7 +164,7 @@ A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deise
 ## Transformer
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
-Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)||Citations (927)||
+Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)|[Differences with the original](https://github.com/Kyubyong/transformer)|Citations (927)||
 |Universal Transformers|Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Łukasz Kaiser|_10 Jul 2018_|[arxiv](https://arxiv.org/abs/1807.03819)|[tf.research](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|Citations (5),[leiphone](https://www.leiphone.com/news/201808/1nhPCi9jWWNGv6aw.html)||
 |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov|_9 Jan 2019_|[arxiv](https://arxiv.org/abs/1901.02860)||||
 
