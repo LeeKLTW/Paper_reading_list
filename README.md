@@ -199,6 +199,8 @@ Citation(16747),CVPR
 
 sequential denoise autoencoder
 
+Constituency Parsing with a Self-Attentive Encoder
+
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
 Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩種產生回覆的方式，專案仍在開發中:)
