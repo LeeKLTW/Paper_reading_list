@@ -201,6 +201,11 @@ sequential denoise autoencoder
 
 Constituency Parsing with a Self-Attentive Encoder
 
+Analysis Methods in Neural Language Processing: A Survey
+Yonatan Belinkov, James Glass
+14 Jan 2019
+https://arxiv.org/abs/1812.08951?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
+
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
 Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩種產生回覆的方式，專案仍在開發中:)
