@@ -23,6 +23,11 @@ https://arxiv.org/abs/1606.01933
 
 
 ## Text(NLP,NLU)
+
+|Title|Author|Date|Paper|Code|Labels|Status|
+|Analysis Methods in Neural Language Processing: A Survey|Yonatan Belinkov, James Glass|14 Jan 2019|[arxiv](https://arxiv.org/abs/1812.08951)|TACL,[Ruder paper picks](http://newsletter.ruder.io/issues/challenges-in-few-shot-learning-2019-predictions-jax-explainable-models-mt-reading-list-foundations-of-ml-ai-index-2018-karen-sparck-jones-analysis-methods-survey-iclr-2019-rejects-151442)||
+
+
 ### Language modeling
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
@@ -200,11 +205,6 @@ Citation(16747),CVPR
 sequential denoise autoencoder
 
 Constituency Parsing with a Self-Attentive Encoder
-
-Analysis Methods in Neural Language Processing: A Survey
-Yonatan Belinkov, James Glass
-14 Jan 2019
-https://arxiv.org/abs/1812.08951?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
