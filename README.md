@@ -86,7 +86,7 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |A Network-based End-to-End Trainable Task-oriented Dialogue System|Tsung-Hsien Wen, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, Steve Young| _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1604.04562) |  | Citations (166) | |
 |Assigning personality/identity to a chatting machine for coherent conversation generation |Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu| _21 Jun 2017_ | [arxiv](https://arxiv.org/abs/1706.02861) |  | Citations (4) | |
 | A Deep Reinforcement Learning Chatbot |Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Rajeshwar, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, Yoshua Bengio| _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | |
-|A Survey on Dialogue Systems: Recent Advances and New Frontiers|Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang| _11 Jan 2018_ | [arxiv](https://arxiv.org/abs/1711.01731) |  | Citations (14) |PRead|
+|A Survey on Dialogue Systems: Recent Advances and New Frontiers|Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang| _11 Jan 2018_ | [arxiv](https://arxiv.org/abs/1711.01731) |  | Citations (14) |PRead,done|
 
 
 
