@@ -169,6 +169,13 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
 A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
 
+
+Convolutional Sequence to Sequence Learning
+Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin
+25 Jul 2017
+https://arxiv.org/abs/1705.03122
+
+
 ## Transformer
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
