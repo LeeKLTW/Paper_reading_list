@@ -32,5 +32,7 @@
 online tools:
 
 [LSTMVis](http://lstm.seas.harvard.edu/)
+
 [Seq2Seq-Vis](https://seq2seq-vis.io/)
+
 NeuroX ??
