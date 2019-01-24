@@ -146,12 +146,12 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Style Transfer in Text: Exploration and Evaluation|Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan|_27 Nov 2017_|[arxiv](https://arxiv.org/abs/1711.06861)|[github](https://github.com/fuzhenxin/text_style_transfer)|AAAI-18,Citations (39)||
 |Toward Controlled Generation of Text|Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing| _13 Sep 2018_ |[arxiv](https://arxiv.org/abs/1703.00955)|[official](https://github.com/asyml/texar/tree/master/examples/text_style_transfer) [unofficial code](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)|ICML-2017, Citations (86)||
 
+
 ## Meta-learning
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
+|A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning|Eric Brochu, Vlad M. Cora, Nando de Freitas|_12 Dec 2010_|[arxiv](https://arxiv.org/abs/1012.2599v1)||||
 |Bayesian Optimization in AlphaGo|Yutian Chen, Aja Huang, Ziyu Wang, Ioannis Antonoglou, Julian Schrittwieser, David Silver, Nando de Freitas|_17 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.06855)||||
-
-
 
 
 ## General and other(activation function, nodes type etc.)
