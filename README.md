@@ -215,6 +215,7 @@ sequential denoise autoencoder
 Constituency Parsing with a Self-Attentive Encoder
 
 generating text via adversarial training
+
 https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf
 
 seqgan sequence generative adversarial nets with policy gradient
