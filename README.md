@@ -12,7 +12,7 @@ Recent Advances in Recurrent Neural Networks|Hojjat Salehinejad, Sharan Sankar, 
 Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh-Thang Luong |_19 Sep 2018_ | [arxiv](https://arxiv.org/pdf/1809.07070v1.pdf)||||
 
 |Enhanced LSTM for Natural Language Inference|Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen
-|[arxiv](https://arxiv.org/abs/1609.06038)|_26 Apr 2017_|---|---|---|
+|[arxiv](https://arxiv.org/abs/1609.06038)|_26 Apr 2017_||||
 
 
 
