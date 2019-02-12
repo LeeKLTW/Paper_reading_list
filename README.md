@@ -220,6 +220,9 @@ https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf
 
 seqgan sequence generative adversarial nets with policy gradient
 
+Natural Questions: a Benchmark for Question Answering Research
+[google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
