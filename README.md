@@ -223,6 +223,15 @@ seqgan sequence generative adversarial nets with policy gradient
 Natural Questions: a Benchmark for Question Answering Research
 [google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
+ZSL
+Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer|citation(1380)|http://cvml.ist.ac.at/papers/lampert-cvpr2009.pdf
+
+An embarrassingly simple approach to zero-shot learning|citation(296)|http://proceedings.mlr.press/v37/romera-paredes15.pdf|
+
+Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly|Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata|9 Aug 2018|Citations (74)|
+
+Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong|13 Oct 2017|Citation(22)
+
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
