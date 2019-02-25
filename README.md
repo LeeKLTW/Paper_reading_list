@@ -184,6 +184,15 @@ Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszk
 |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov|_18 Jan 2019_|[arxiv](https://arxiv.org/abs/1901.02860)||||
 
 
+##  中文斷詞
+|Title|Author|Date|Code|F1@CTB6|F1@CTB7|F1@AS|F1@CityU|F1@PKU|F1@MSR|Labels|Status|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||
+
+
+
+
+
 [Efficient Natural Language Response Suggestion for Smart Reply](https://arxiv.org/abs/1705.00652)
 
 Auto-Keras: Efficient Neural Architecture Search with Network Morphism
