@@ -185,9 +185,10 @@ Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszk
 
 
 ##  中文斷詞
-|Title|Author|Date|Code|F1@CTB6|F1@CTB7|F1@AS|F1@CityU|F1@PKU|F1@MSR|Labels|Status|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||
+
+| Title | Author | Date | Code | F1@CTB6 | F1@CTB7 | F1@AS | F1@CityU | F1@PKU | F1@MSR | Labels | Status |
+|----   | ---    | ---  | ---  | ---     | ---     | ---   | ---      | ---    | ---    | ---    | ---    |
+|       |        |      |      |         |         |       |          |        |        |        |        |
 
 
 
