@@ -186,9 +186,17 @@ Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszk
 
 ##  中文斷詞
 
-| Title | Author | Date | Code | F1@CTB6 | F1@CTB7 | F1@AS | F1@CityU | F1@PKU | F1@MSR | Labels | Status |
-|----   | ---    | ---  | ---  | ---     | ---     | ---   | ---      | ---    | ---    | ---    | ---    |
-|       |        |      |      |         |         |       |          |        |        |        |        |
+| Title                                                                                                                   | Author        | Date   | Code                                                                              | F1@CTB6 | F1@CTB7 | F1@AS | F1@CityU | F1@PKU | F1@MSR | Labels | Status   |
+|-------                                                                                                                  | ---           | ---    | ---                                                                               | ---     | ---     | ---   | ---      | ---    | ---    | ---    | ---------|
+| [State-of-the-art Chinese Word Segmentation with Bi-LSTMs](https://aclweb.org/anthology/D18-1529)                       | Ma et al.     | _2018_ |                                                                                   | 96.7    |         |       |          |        |        |        |          |
+| [Subword Encoding in Lattice LSTM for Chinese Word Segmentation](https://arxiv.org/pdf/1810.12594.pdf)                  | Yang et al.   | _2018_ | [github](https://github.com/jiesutd/SubwordEncoding-CWS)                          | 96.3    |         |       |          |        |        |        |          |
+| [Neural Word Segmentation with Rich Pretraining](http://aclweb.org/anthology/P17-1078)                                  | Yang et al.   | _2017_ | [github](https://github.com/jiesutd/RichWordSegmentor)                            | 96.2    |         |       |          |        |        |        |          |
+| [Word-Context Character Embeddings for Chinese Word Segmentation](https://www.aclweb.org/anthology/D17-1079)            | Zhou et al    | _2017_ |                                                                                   |         | 96.2    |       |          |        |        |        |          |
+| [Adversarial Multi-Criteria Learning for Chinese Word Segmentation](http://aclweb.org/anthology/P17-1110)               | Chen et al.   | _2017_ | [github](https://github.com/FudanNLP/adversarial-multi-criteria-learning-for-CWS) | 96.2    |         |       |          |        |        |        |          |
+| [Exploring Segment Representations for Neural Segmentation Models](https://www.ijcai.org/Proceedings/16/Papers/409.pdf) | Liu et al.    | _2016_ | [github](https://github.com/Oneplus/segrep-for-nn-semicrf)                        | 95.5    |         |       |          |        |        |        |          |
+| [Long Short-Term Memory Neural Networks for Chinese Word Segmentation](http://www.aclweb.org/anthology/D15-1141)        | Chen et al    | _2015_ | [github](https://github.com/FudanNLP/CWS_LSTM)                                    | 96.0    |         |       |          |        |        |        |          |
+| [Neural Joint Model for Transition-based Chinese Syntactic Analysis](http://www.aclweb.org/anthology/P17-1111)          | Kurita et al. | _2017_ |                                                                                   |         |96.2     |       |          |        |        |        |          |
+| [Fast and Accurate Neural Word Segmentation for Chinese](http://aclweb.org/anthology/P17-2096)                          | Cai et al     | _2017_ | [github](https://github.com/jcyk/greedyCWS)                                       |         |         | 95.3  |          |        |        |        |          |
 
 
 
