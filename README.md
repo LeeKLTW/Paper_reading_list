@@ -266,7 +266,6 @@ pretrained embedding support
 
 [JayParks/tf-seq2seq](https://github.com/JayParks/tf-seq2seq/blob/master/seq2seq_model.py)
 
-
 [marsan-ma/tf_chatbot_seq2seq_antilm](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)
 
 
@@ -274,13 +273,6 @@ pretrained embedding support
 Turn sequence of words into a fix-length representation vector. This is a version to refactor all the seq2vec structures and use customed layers in yklz.
 
 [bshao001/ChatLearner](https://github.com/bshao001/ChatLearner)A chatbot implemented in TensorFlow based on the new sequence to sequence (NMT) model, with certain rules seamlessly integrated.
-
-[wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) 中文人名语料库（Chinese-Names-Corpus）业余项目“萌名（一个基于语料库技术的取名工具）”的副产品。不定期更新。只删词，不加词。 
-
-[wainshine/Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus) 公司名语料库（Company-Names-Corpus）
-业余项目“萌名（一个基于语料库技术的取名工具）”的副产品。不定期更新。只删词，不加词。可用于中文分词、机构名识别。
-公司名语料库（Company-Names-Corpus） 480万。清洗后仍存有大量badcase。
-机构名语料库（Organization-Names-Corpus） 110万。清洗后仍存有大量badcase。
 
 ## webpage & blog
 [NLP-progress](https://nlpprogress.com/english/text_classification.html)
