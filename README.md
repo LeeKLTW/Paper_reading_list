@@ -239,6 +239,9 @@ Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugl
 Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong|13 Oct 2017|Citation(22)
 
 
+https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf
+
+
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
 Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩種產生回覆的方式，專案仍在開發中:)
