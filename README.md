@@ -241,6 +241,9 @@ Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xi
 
 https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf
 
+https://arxiv.org/abs/1810.08717
+
+
 
 # github
 [zake7749/Chatbot](https://github.com/zake7749/Chatbot)
