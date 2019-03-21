@@ -257,8 +257,6 @@ This work tries to reproduce the results of [A Neural Conversational Model](http
 
 [qhduan/ConversationalRobotDesign](https://github.com/qhduan/ConversationalRobotDesign)这个repo会记录我对 Conversational Robot 的理解、学习、研究、设计、实现的相关内容
 
-[qhduan/Seq2Seq_Chatbot_QA](https://github.com/qhduan/Seq2Seq_Chatbot_QA)这个repo诞生比较早，那个时候tensorflow还没到1.0版本， 所以这个模型当时用的tf.contrib.seq2seq库，现在已经是tf.contrib.legacy_seq2seq了， 我想大家明白legacy的意思。这个repo的本身目的是学习与实现seq2seq的相关内容， 并不是一个完整的software，所以它除了学习和别人参考来说，就有各种各样的问题。
-
 [qhduan/just_another_seq2seq](https://github.com/qhduan/just_another_seq2seq)
 主要是从个人角度梳理了一下seq2seq的代码
 加入了可选基本的CRF支持，loss和infer（还不确定对
