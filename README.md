@@ -272,9 +272,6 @@ pretrained embedding support
 [marsan-ma/tf_chatbot_seq2seq_antilm](https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm)
 
 
-[Yoctol/seq2vec](https://github.com/Yoctol/seq2vec)
-Turn sequence of words into a fix-length representation vector. This is a version to refactor all the seq2vec structures and use customed layers in yklz.
-
 [bshao001/ChatLearner](https://github.com/bshao001/ChatLearner)A chatbot implemented in TensorFlow based on the new sequence to sequence (NMT) model, with certain rules seamlessly integrated.
 
 ## webpage & blog
