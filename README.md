@@ -257,9 +257,6 @@ This work tries to reproduce the results of [A Neural Conversational Model](http
 [qhduan/ConversationalRobotDesign](https://github.com/qhduan/ConversationalRobotDesign)这个repo会记录我对 Conversational Robot 的理解、学习、研究、设计、实现的相关内容
 
 
-
-[bshao001/ChatLearner](https://github.com/bshao001/ChatLearner)A chatbot implemented in TensorFlow based on the new sequence to sequence (NMT) model, with certain rules seamlessly integrated.
-
 ## webpage & blog
 [NLP-progress](https://nlpprogress.com/english/text_classification.html)
 
