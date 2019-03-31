@@ -251,9 +251,6 @@ Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩
 http://zake7749.github.io/2016/12/17/how-to-develop-chatbot/
 
 
-[Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA) (Similar implementation to chatbots inikdom/neural-chatbot)
-This work tries to reproduce the results of [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
-
 [qhduan/ConversationalRobotDesign](https://github.com/qhduan/ConversationalRobotDesign)这个repo会记录我对 Conversational Robot 的理解、学习、研究、设计、实现的相关内容
 
 
