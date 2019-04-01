@@ -22,6 +22,8 @@ https://arxiv.org/abs/1606.01933
 
 ## Text(NLP,NLU)
 
+Analysis Methods
+
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Analysis Methods in Neural Language Processing: A Survey|Yonatan Belinkov, James Glass|14 Jan 2019|[arxiv](https://arxiv.org/abs/1812.08951)|TACL,[Ruder paper picks](http://newsletter.ruder.io/issues/challenges-in-few-shot-learning-2019-predictions-jax-explainable-models-mt-reading-list-foundations-of-ml-ai-index-2018-karen-sparck-jones-analysis-methods-survey-iclr-2019-rejects-151442)||
