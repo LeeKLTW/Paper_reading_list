@@ -252,8 +252,8 @@ Mianbot 是採用樣板與檢索式模型搭建的聊天機器人，目前有兩
 其二除了天氣應答外，主要是以 PTT Gossiping 作為知識庫，透過文本相似度的比對取出與使用者輸入最相似的文章標題，再從推文集內挑選出最為可靠的回覆，程式內容及實驗過程請參見PTT-Chat_Generator。
 http://zake7749.github.io/2016/12/17/how-to-develop-chatbot/
 
-
 [qhduan/ConversationalRobotDesign](https://github.com/qhduan/ConversationalRobotDesign)这个repo会记录我对 Conversational Robot 的理解、学习、研究、设计、实现的相关内容
+
 
 
 ## webpage & blog
