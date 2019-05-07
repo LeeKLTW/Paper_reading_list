@@ -7,17 +7,11 @@ A list to record the papers I am reading.
 |---|---|---|---|---|---|---|
 Sequence to sequence learning with neural networks|Sutskever et al |2014| [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)||| [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Sutskever%20et%20al%2CSequence%20to%20sequence%20learning%20with%20neural%20networks.md)|
 Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation|Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio|_3 Sep 2014_ | [arxiv](https://arxiv.org/pdf/1406.1078.pdf)||| 
+|A Decomposable Attention Model for Natural Language Inference|Ankur P. Parikh, Oscar Täckström, Dipanjan Das, Jakob Uszkoreit|[arxiv](https://arxiv.org/abs/1606.01933)|_25 Sep 2016_||||
 Get To The Point: Summarization with Pointer-Generator Networks|Abigail See, Peter J. Liu, Christopher D. Manning|_25 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368.pdf)||| 
 Recent Advances in Recurrent Neural Networks|Hojjat Salehinejad, Sharan Sankar, Joseph Barfett, Errol Colak, Shahrokh Valaee|_22 Feb 2018_ | [arxiv](https://arxiv.org/pdf/1801.01078.pdf)|||[TBC](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Recent%20Advances%20in%20Recurrent%20Neural%20Networks.md)|
 Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh-Thang Luong |_19 Sep 2018_ | [arxiv](https://arxiv.org/pdf/1809.07070v1.pdf)||||
 |Enhanced LSTM for Natural Language Inference|Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen|_26 Apr 2017_|[arxiv](https://arxiv.org/abs/1609.06038)||||
-
-
-
-A Decomposable Attention Model for Natural Language Inference 
-Ankur P. Parikh, Oscar Täckström, Dipanjan Das, Jakob Uszkoreit
-https://arxiv.org/abs/1606.01933
-25 Sep 2016
 
 
 ## Text(NLP,NLU)
