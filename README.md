@@ -233,7 +233,7 @@ Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugl
 Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong|13 Oct 2017|Citation(22)
 
 
-|A Survey on Transfer Learning|Sinno Jialin Pan and Qiang Yang||[pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)||||
+|A Survey on Transfer Learning|Sinno Jialin Pan and Qiang Yang||[pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)|||Citation(5933)|
 
 https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf
 
