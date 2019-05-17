@@ -1,7 +1,49 @@
-# Paper_reading_list
-A list to record the papers I am reading.
 
-## RNN (Structure)
+# Methodology
+
+This topic will focus on innovation of methodology.
+
+## Sequence model
+
+Attention, RNN, CNN for sequence model
+
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)|[Differences with the original](https://github.com/Kyubyong/transformer)|Citations (927)||
+|Universal Transformers|Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Łukasz Kaiser|_10 Jul 2018_|[arxiv](https://arxiv.org/abs/1807.03819)|[tf.research](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|Citations (5),[leiphone](https://www.leiphone.com/news/201808/1nhPCi9jWWNGv6aw.html)||
+|Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov|_18 Jan 2019_|[arxiv](https://arxiv.org/abs/1901.02860)||||
+
+
+## Transfer learning
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|A Survey on Transfer Learning|Sinno Jialin Pan and Qiang Yang||[pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)|||Citation(5933)|
+
+## Zero-shot Learning, Few-shot Learning
+
+Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer|citation(1380)|http://cvml.ist.ac.at/papers/lampert-cvpr2009.pdf
+
+An embarrassingly simple approach to zero-shot learning|citation(296)|http://proceedings.mlr.press/v37/romera-paredes15.pdf|
+
+Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly|Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata|9 Aug 2018|Citations (74)|
+
+Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong|13 Oct 2017|Citation(22)
+
+
+## Meta-learning
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning|Eric Brochu, Vlad M. Cora, Nando de Freitas|_12 Dec 2010_|[arxiv](https://arxiv.org/abs/1012.2599v1)||||
+|Bayesian Optimization in AlphaGo|Yutian Chen, Aja Huang, Ziyu Wang, Ioannis Antonoglou, Julian Schrittwieser, David Silver, Nando de Freitas|_17 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.06855)||||
+
+## RL
+
+## GAN
+
+
+
+TODO: clean this up
+------
 
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
@@ -12,18 +54,39 @@ Get To The Point: Summarization with Pointer-Generator Networks|Abigail See, Pet
 Recent Advances in Recurrent Neural Networks|Hojjat Salehinejad, Sharan Sankar, Joseph Barfett, Errol Colak, Shahrokh Valaee|_22 Feb 2018_ | [arxiv](https://arxiv.org/pdf/1801.01078.pdf)|||[TBC](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Recent%20Advances%20in%20Recurrent%20Neural%20Networks.md)|
 Semi-Supervised Sequence Modeling with Cross-View Training|Tsung-Hsien Wen, Minh-Thang Luong |_19 Sep 2018_ | [arxiv](https://arxiv.org/pdf/1809.07070v1.pdf)||||
 |Enhanced LSTM for Natural Language Inference|Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen|_26 Apr 2017_|[arxiv](https://arxiv.org/abs/1609.06038)||||
+|On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes|Andrew Y. Ng, Michael I. Jordan| _2001_ |[NIPS](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)||NIPS, Citations (1974)||
+|A Tutorial on Spectral Clustering|Ulrike von Luxburg| _1 Nov 2007_ |[arxiv](https://arxiv.org/pdf/0711.0189.pdf)||Citations (999+)||
+|A Convolutional Neural Network for Modelling Sentences|Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom|_8 Apr 2014_|[arxiv](https://arxiv.org/abs/1404.2188)|Citations (999+)||
+|Convolutional Neural Networks for Sentence Classification|Yoon Kim|_3 Sep 2014_|[arxiv](https://arxiv.org/abs/1408.5882)||Citations (999+)||
+|A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification|Ye Zhang, Byron Wallace| _6 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1510.03820v4.pdf)||Citations (186)||
+|Character-level Convolutional Networks for Text Classification|Xiang Zhang, Junbo Zhao, Yann LeCun|_2015_ |[NIPS](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)|[None-Official](https://github.com/dennybritz/cnn-text-classification-tf)|NIPS, Citations (877)||
+|Show, Attend and Tell: Neural Image Caption Generation with Visual Attention|Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio|_19 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1502.03044.pdf)||||
+|Understanding intermediate layers using linear classifier probes|Guillaume Alain, Yoshua Bengio|_14 Oct 2016_ |[arxiv](https://arxiv.org/pdf/1610.01644.pdf)||||
+|Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
+Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
+A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
+Convolutional Sequence to Sequence Learning
+Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin
+25 Jul 2017
+https://arxiv.org/abs/1705.03122
+
+------
 
 
-## Text(NLP,NLU)
 
-Analysis Methods
+
+# Computation and Language (NLP,NLU,NLI)
+
+This topic will focus on Language problem solving.
+
+## Analysis Methods
 
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Analysis Methods in Neural Language Processing: A Survey|Yonatan Belinkov, James Glass|14 Jan 2019|[arxiv](https://arxiv.org/abs/1812.08951)|TACL,[Ruder paper picks](http://newsletter.ruder.io/issues/challenges-in-few-shot-learning-2019-predictions-jax-explainable-models-mt-reading-list-foundations-of-ml-ai-index-2018-karen-sparck-jones-analysis-methods-survey-iclr-2019-rejects-151442)||
 
 
-### Language modeling
+## Language modeling
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm|Brian Roark, Murat Saraclar, Michael Collins, Mark Johnson||||Citation(176)||
@@ -31,7 +94,7 @@ Analysis Methods
 |Semi-supervised sequence tagging with bidirectional language models|Matthew E. Peters, Waleed Ammar, Chandra Bhagavatula, Russell Power|_29 Apr 2017_|[arxiv](https://arxiv.org/abs/1705.00108)||Citations (67)||
 
 
-### syntactic parsing
+## syntactic parsing
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |A Fast and Accurate Dependency Parser using Neural Networks|Danqi Chen,Christopher D. Manning|_2014_|[standford](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)|[not officail github](https://github.com/akjindal53244/dependency_parsing_tf)|EMNLP,Citation(914)||
@@ -39,7 +102,7 @@ Analysis Methods
 
 [哈工大](https://ltp-cloud.com/intro/) (斷詞&詞性標註demo)
 
-### embedding
+## embedding
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 | An Autoencoder Approach to Learning Bilingual Word Representations|Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov| _2014_ | [NIPS](http://papers.nips.cc/paper/5270-an-autoencoder-approach-to-learning-bilingual-word-representations) | | (NIPS 2014) ||
@@ -60,39 +123,44 @@ On the Dimensionality of Word Embedding |Zi Yin,Yuanyuan Shen|_Dec 2018_| [NIPS]
 
 [Comparison of FastText and Word2Vec in nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
-### Translation
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-| Neural Machine Translation by Jointly Learning to Align and Translate|Dzmitry Bahdanau, KyungHyun Cho,Yoshua Bengio. | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473.pdf) |  | _None_ |[TBC](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate)|
-| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation|Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean.  | _8 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144.pdf) |  | _None_ | |
-| The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation|Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Niki Parmar, Mike Schuster, Zhifeng Chen, Yonghui Wu, Macduff Hughes. | _27 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.09849.pdf) |  | _None_ | |
-
+## Translation
+| Title                                                                                              | Author                                                                                                                                                                                                                                                                                                                                                                                                                                              | Date          | Paper                                         | Code | Labels | Status                                                                                                                                                   | Task |
+|----                                                                                                | ---                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ---           | ---                                           | ---  | ---    | ---                                                                                                                                                      | -----|
+| Neural Machine Translation by Jointly Learning to Align and Translate                              | Dzmitry Bahdanau, KyungHyun Cho,Yoshua Bengio.                                                                                                                                                                                                                                                                                                                                                                                                      | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473.pdf)  |      | _None_ | [TBC](https://github.com/LeeKLTW/Paper_reading_list/blob/master/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate) | -    |
+| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean. | _8 Oct 2016_  | [arxiv](https://arxiv.org/pdf/1609.08144.pdf) |      | _None_ |                                                                                                                                                          | -    |
+| The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation                   | Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Niki Parmar, Mike Schuster, Zhifeng Chen, Yonghui Wu, Macduff Hughes.                                                                                                                                                                                                                                                                         | _27 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.09849.pdf) |      | _None_ |                                                                                                                                                          | -    |
 
 Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-github](https://github.com/tensorflow/nmt)
 
-### Chatbots
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-| A Neural Conversational Model |Oriol Vinyals, Quoc Le|_19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869) | [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot) | _None_ |[Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/A%20Neural%20Conversational%20Model.md)|
-| Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models |Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau| _6 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1507.04808.pdf) |  | _None_ | |
-|Conversational Contextual Cues: The Case of Personalization and History for Response Ranking|Rami Al-Rfou, Marc Pickett, Javier Snaider, Yun-hsuan Sung, Brian Strope, Ray Kurzweil| _1 Jun 2016_ | [arxiv](https://arxiv.org/abs/1606.00372) |  |  Citations (20) | |
-|Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning|Jason D. Williams, Kavosh Asadi, Geoffrey Zweig| _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1702.03274) |  | Citations (82) | |
-|A Network-based End-to-End Trainable Task-oriented Dialogue System|Tsung-Hsien Wen, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, Steve Young| _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1604.04562) |  | Citations (166) | |
-|Assigning personality/identity to a chatting machine for coherent conversation generation |Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu| _21 Jun 2017_ | [arxiv](https://arxiv.org/abs/1706.02861) |  | Citations (4) | |
-| A Deep Reinforcement Learning Chatbot |Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Rajeshwar, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, Yoshua Bengio| _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.02349) |  | _None_ | |
-|A Survey on Dialogue Systems: Recent Advances and New Frontiers|Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang| _11 Jan 2018_ | [arxiv](https://arxiv.org/abs/1711.01731) |  | Citations (14) |PRead,done|
 
 
+TODO: clean this up
+------------ 
+
+## Chatbots
+| Title                                                                                                              | Author                                                                                                                                                                                                                                                                                                            | Date          | Paper                                         | Code                                                                | Labels          | Status                                                                                                   | Task|
+|----                                                                                                                | ---                                                                                                                                                                                                                                                                                                               | ---           | ---                                           | ---                                                                 | ---             | ---                                                                                                      | ----|
+| A Neural Conversational Model                                                                                      | Oriol Vinyals, Quoc Le                                                                                                                                                                                                                                                                                            | _19 jun 2015_ | [arxiv](https://arxiv.org/pdf/1506.05869)     | [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot) | _None_          | [Read](https://github.com/LeeKLTW/Paper_reading_list/blob/master/A%20Neural%20Conversational%20Model.md) |     |
+| Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models                           | Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau                                                                                                                                                                                                                               | _6 Apr 2016_  | [arxiv](https://arxiv.org/pdf/1507.04808.pdf) |                                                                     | _None_          |                                                                                                          |     |
+| Conversational Contextual Cues: The Case of Personalization and History for Response Ranking                       | Rami Al-Rfou, Marc Pickett, Javier Snaider, Yun-hsuan Sung, Brian Strope, Ray Kurzweil                                                                                                                                                                                                                            | _1 Jun 2016_  | [arxiv](https://arxiv.org/abs/1606.00372)     |                                                                     | Citations (20)  |                                                                                                          |     |
+| Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning | Jason D. Williams, Kavosh Asadi, Geoffrey Zweig                                                                                                                                                                                                                                                                   | _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1702.03274)     |                                                                     | Citations (82)  |                                                                                                          |     |
+| A Network-based End-to-End Trainable Task-oriented Dialogue System                                                 | Tsung-Hsien Wen, David Vandyke, Nikola Mrksic, Milica Gasic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, Steve Young                                                                                                                                                                                        | _24 Apr 2017_ | [arxiv](https://arxiv.org/abs/1604.04562)     |                                                                     | Citations (166) |                                                                                                          |     |
+| Assigning personality/identity to a chatting machine for coherent conversation generation                          | Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu                                                                                                                                                                                                                                                   | _21 Jun 2017_ | [arxiv](https://arxiv.org/abs/1706.02861)     |                                                                     | Citations (4)   |                                                                                                          |     |
+| A Deep Reinforcement Learning Chatbot                                                                              | Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan Lin, Sandeep Subramanian, Taesup Kim, Michael Pieper, Sarath Chandar, Nan Rosemary Ke, Sai Rajeshwar, Alexandre de Brebisson, Jose M. R. Sotelo, Dendi Suhubdy, Vincent Michalski, Alexandre Nguyen, Joelle Pineau, Yoshua Bengio | _7 sep 2017_  | [arxiv](https://arxiv.org/pdf/1709.02349)     |                                                                     | _None_          |                                                                                                          |     |
+| A Survey on Dialogue Systems: Recent Advances and New Frontiers                                                    | Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang                                                                                                                                                                                                                                                               | _11 Jan 2018_ | [arxiv](https://arxiv.org/abs/1711.01731)     |                                                                     | Citations (14)  | PRead,done                                                                                               |     |
 
 [babi project](https://research.fb.com/downloads/babi/)
 
-### Taskbots
+## Taskbots
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 | Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning|Baolin Peng, Xiujun Li, Lihong Li, Jianfeng Gao, Asli Celikyilmaz, Sungjin Lee, Kam-Fai Wong| _10 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03084) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ ||
 | End-to-End Task-Completion Neural Dialogue Systems|Xiujun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao, Asli Celikyilmaz| _3 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.01008) | [MiuLab/TC-Bot](https://github.com/MiuLab/TC-Bot) | _None_ | |
 
-### Question Answering
+## Question Answering
+
+Common dataset: SQuAD1.1, SQuAD2.0, bAbi, MS MARCO, MCTest-160
+
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
 |Teaching Machines to Read and Comprehend|Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom| _19 Nov 2015_ | [arxiv](https://arxiv.org/pdf/1506.03340v3.pdf) | |Citations (598) | |
@@ -112,6 +180,16 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 ![mctest](https://github.com/LeeKLTW/Paper_reading_list/blob/master/MCTEST.jpg)
 [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
 
+------------
+
+## Style Transfer in Text
+|Title|Author|Date|Paper|Code|Labels|Status|
+|---|---|---|---|---|---|---|
+|Language Style Transfer from Sentences with Arbitrary Unknown Styles|Yanpeng Zhao, Wei Bi, Deng Cai, Xiaojiang Liu, Kewei Tu, Shuming Shi| _13 Aug 2018_ |[arxiv](https://arxiv.org/abs/1808.04071)||Citations (2)||
+|Style Transfer in Text: Exploration and Evaluation|Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan|_27 Nov 2017_|[arxiv](https://arxiv.org/abs/1711.06861)|[github](https://github.com/fuzhenxin/text_style_transfer)|AAAI-18,Citations (39)||
+|Toward Controlled Generation of Text|Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing| _13 Sep 2018_ |[arxiv](https://arxiv.org/abs/1703.00955)|[official](https://github.com/asyml/texar/tree/master/examples/text_style_transfer) [unofficial code](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)|ICML-2017, Citations (86)||
+
+
 ## Summarization
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
@@ -125,6 +203,9 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Graph-based Ontology Summarization: A Survey|Seyedamin Pouriyeh, Mehdi Allahyari, Qingxia Liu, Gong Cheng, Hamid Reza Arabnia, Yuzhong Qu, Krys Kochut|_15 May 2018_|[arxiv](https://arxiv.org/pdf/1805.06051.pdf)||Citations (0)||
 
 
+
+
+
 ## Ontology
 |Title|Author|Date|Paper|Code|Labels|Status|
 |---|---|---|---|---|---|---|
@@ -133,53 +214,9 @@ Thang Luong,[NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)|[tf-
 |Domain Ontology Induction using Word Embeddings|Niharika Gupta,Sanjay Podder, Annervaz K M, Shubhashis Sengupta|_20 Apr 2018_|[pdf](https://www.computer.org/csdl/proceedings/icmla/2016/6167/00/07838131.pdf)||2016 15th IEEE International Conference on Machine Learning and Applications||
 |Inseparability and Conservative Extensions of Description Logic Ontologies: A Survey|Elena Botoeva, Boris Konev, Carsten Lutz, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev|_20 Apr 2018_|[arxiv](https://arxiv.org/pdf/1804.07805v1)||Citations (10)||
 
-## Style Transfer in Text
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-|Language Style Transfer from Sentences with Arbitrary Unknown Styles|Yanpeng Zhao, Wei Bi, Deng Cai, Xiaojiang Liu, Kewei Tu, Shuming Shi| _13 Aug 2018_ |[arxiv](https://arxiv.org/abs/1808.04071)||Citations (2)||
-|Style Transfer in Text: Exploration and Evaluation|Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan|_27 Nov 2017_|[arxiv](https://arxiv.org/abs/1711.06861)|[github](https://github.com/fuzhenxin/text_style_transfer)|AAAI-18,Citations (39)||
-|Toward Controlled Generation of Text|Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing| _13 Sep 2018_ |[arxiv](https://arxiv.org/abs/1703.00955)|[official](https://github.com/asyml/texar/tree/master/examples/text_style_transfer) [unofficial code](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)|ICML-2017, Citations (86)||
-
-
-## Meta-learning
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-|A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning|Eric Brochu, Vlad M. Cora, Nando de Freitas|_12 Dec 2010_|[arxiv](https://arxiv.org/abs/1012.2599v1)||||
-|Bayesian Optimization in AlphaGo|Yutian Chen, Aja Huang, Ziyu Wang, Ioannis Antonoglou, Julian Schrittwieser, David Silver, Nando de Freitas|_17 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.06855)||||
-
-
-## General and other(activation function, nodes type etc.)
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-|On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes|Andrew Y. Ng, Michael I. Jordan| _2001_ |[NIPS](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)||NIPS, Citations (1974)||
-|A Tutorial on Spectral Clustering|Ulrike von Luxburg| _1 Nov 2007_ |[arxiv](https://arxiv.org/pdf/0711.0189.pdf)||Citations (999+)||
-|A Convolutional Neural Network for Modelling Sentences|Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom|_8 Apr 2014_|[arxiv](https://arxiv.org/abs/1404.2188)|Citations (999+)||
-|Convolutional Neural Networks for Sentence Classification|Yoon Kim|_3 Sep 2014_|[arxiv](https://arxiv.org/abs/1408.5882)||Citations (999+)||
-|A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification|Ye Zhang, Byron Wallace| _6 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1510.03820v4.pdf)||Citations (186)||
-|Character-level Convolutional Networks for Text Classification|Xiang Zhang, Junbo Zhao, Yann LeCun|_2015_ |[NIPS](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)|[None-Official](https://github.com/dennybritz/cnn-text-classification-tf)|NIPS, Citations (877)||
-|Show, Attend and Tell: Neural Image Caption Generation with Visual Attention|Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio|_19 Apr 2016_ |[arxiv](https://arxiv.org/pdf/1502.03044.pdf)||||
-|Understanding intermediate layers using linear classifier probes|Guillaume Alain, Yoshua Bengio|_14 Oct 2016_ |[arxiv](https://arxiv.org/pdf/1610.01644.pdf)||||
-|Pointer Networks|Oriol Vinyals, Meire Fortunato, Navdeep Jaitly|_2 Jan 2017_ |[arxiv](https://arxiv.org/pdf/1506.03134.pdf)||||
-Self-Normalizing Neural Networks |Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter|8 Jun 2017 | [arxiv](https://arxiv.org/pdf/1706.02515.pdf)|https://github.com/bioinf-jku/SNNs || 
-A Brief Survey of Deep Reinforcement Learning |Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath| _28 Sep 2017_ | [arxiv](https://arxiv.org/pdf/1708.05866v2.pdf)| |IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding (arXiv ext||
-
-
-Convolutional Sequence to Sequence Learning
-Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin
-25 Jul 2017
-https://arxiv.org/abs/1705.03122
-
-
-## Transformer
-|Title|Author|Date|Paper|Code|Labels|Status|
-|---|---|---|---|---|---|---|
-Attention Is All You Need |Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|_6 Dec 2017_|[arxiv](https://arxiv.org/abs/1706.03762)|[Differences with the original](https://github.com/Kyubyong/transformer)|Citations (927)||
-|Universal Transformers|Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Łukasz Kaiser|_10 Jul 2018_|[arxiv](https://arxiv.org/abs/1807.03819)|[tf.research](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|Citations (5),[leiphone](https://www.leiphone.com/news/201808/1nhPCi9jWWNGv6aw.html)||
-|Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov|_18 Jan 2019_|[arxiv](https://arxiv.org/abs/1901.02860)||||
 
 
 
-Unsupervised Data Augmentation |https://arxiv.org/abs/1904.12848
 
 
 
@@ -222,17 +259,7 @@ seqgan sequence generative adversarial nets with policy gradient
 Natural Questions: a Benchmark for Question Answering Research
 [google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
-ZSL
-Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer|citation(1380)|http://cvml.ist.ac.at/papers/lampert-cvpr2009.pdf
 
-An embarrassingly simple approach to zero-shot learning|citation(296)|http://proceedings.mlr.press/v37/romera-paredes15.pdf|
-
-Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly|Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata|9 Aug 2018|Citations (74)|
-
-Recent Advances in Zero-shot Recognition|Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong|13 Oct 2017|Citation(22)
-
-
-|A Survey on Transfer Learning|Sinno Jialin Pan and Qiang Yang||[pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)|||Citation(5933)|
 
 https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/jiang-why-2018.pdf
 
@@ -251,7 +278,7 @@ http://zake7749.github.io/2016/12/17/how-to-develop-chatbot/
 
 
 
-## webpage & blog
+# webpage & blog
 [NLP-progress](https://nlpprogress.com/english/text_classification.html)
 
 [Hidden Markov Model and Naive Bayes relationship](http://www.davidsbatista.net/blog/2017/11/11/HHM_and_Naive_Bayes/)
